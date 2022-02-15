@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mocha": "^9.1.1",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
